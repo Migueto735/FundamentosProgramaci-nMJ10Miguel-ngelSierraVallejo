@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\bin\Debug\Parcial 2.exe.config
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\bin\Debug\Parcial 2.exe
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\bin\Debug\Parcial 2.pdb
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.exe
+C:\Users\B09S104est\Documents\Parcial 2\Parcial 2\Parcial 2\obj\Debug\Parcial 2.pdb
