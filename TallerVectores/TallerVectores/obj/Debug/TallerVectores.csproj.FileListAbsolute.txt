@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe.config
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\bin\Debug\TallerVectores.pdb
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\obj\Debug\TallerVectores.exe
+C:\Users\B09S104est\Documents\Miguel Ángel Sierra Vallejo\FundamentosProgramaci-nMJ10Miguel-ngelSierraVallejo\TallerVectores\TallerVectores\obj\Debug\TallerVectores.pdb
