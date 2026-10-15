@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\obj\Debug\8.CiclosWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\obj\Debug\8.CiclosWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\bin\Debug\8.CiclosWhile.exe.config
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\bin\Debug\8.CiclosWhile.exe
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\bin\Debug\8.CiclosWhile.pdb
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\obj\Debug\8.CiclosWhile.exe
+C:\Users\B09S104est\Documents\SofiaTrujillo\FundamentosProgramacionMJ8SofiaTrujillo\8.CiclosWhile\8.CiclosWhile\obj\Debug\8.CiclosWhile.pdb
